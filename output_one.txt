@@ -1,0 +1,2 @@
+1,saluts,heloo,nom,nom en francis ,hi every one 
+10,aller,go,verbe ,aller au cinéma,go to cinema  
